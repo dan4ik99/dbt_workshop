@@ -24,3 +24,5 @@
 - [ ] Project has been tested locally
 - [ ] Each model has YAML file with model description, tests
 - [ ] dbt CI pass
+- [ ] dbt CI pass
+- [ ] dbt CI pass
